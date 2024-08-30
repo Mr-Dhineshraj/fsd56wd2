@@ -1,0 +1,26 @@
+{
+  "name": "fsd56wd2_nodejs",
+  "version": "1.0.0",
+  "description": "Backend Application - Management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "st":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Dhineshraj/fsd56wd2.git"
+  },
+  "keywords": [
+    "backend",
+    "Api",
+    "mongoDb",
+    "express.js"
+  ],
+  "author": "Dhineshraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Dhineshraj/fsd56wd2/issues"
+  },
+  "homepage": "https://github.com/Mr-Dhineshraj/fsd56wd2#readme"
+}
