@@ -1,5 +1,5 @@
 {
-  "name": "fsd56wd2_nodejs",
+  "name": "day2_practice",
   "version": "1.0.0",
   "description": "Backend Application - Management system",
   "main": "index.js",
@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/Mr-Dhineshraj/fsd56wd2#readme",
   "dependencies": {
-    "mongodb": "^6.8.0"
+    "body-parser": "^1.20.3",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
   }
 }
